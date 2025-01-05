@@ -61,3 +61,10 @@ Const Can alsoe be used to declare variables dif is that the declared Vars are n
 A variable name should have a clean, obvious meaning, describing the data that it stores.
 Agree on terms within your team and in your mind. If a site visitor is called a “user” then we should name related variable
 const – is like let, but the value of the variable can’t be changed.
+
+## Data Types
+
+ ### Number
+
+ The number type represents both integer and floating point numbers.
+

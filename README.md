@@ -58,3 +58,6 @@ Const Can alsoe be used to declare variables dif is that the declared Vars are n
 1. Name must contain only letters, digits or the symbols $ and \_.
 2. The first Character Must Not be a digit.
 // Javascript is case Sensitive btw.
+A variable name should have a clean, obvious meaning, describing the data that it stores.
+Agree on terms within your team and in your mind. If a site visitor is called a “user” then we should name related variable
+const – is like let, but the value of the variable can’t be changed.
